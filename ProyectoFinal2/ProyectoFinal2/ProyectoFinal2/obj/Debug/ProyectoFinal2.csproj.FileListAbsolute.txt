@@ -1,0 +1,11 @@
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\bin\Debug\ProyectoFinal2.exe.config
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\bin\Debug\ProyectoFinal2.exe
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\bin\Debug\ProyectoFinal2.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\ProyectoFinal2.csproj.AssemblyReference.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\ProyectoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\Proyecto.B00C6C18.Up2Date
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\ProyectoFinal2.exe
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\ProyectoFinal2.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto Final2\ProyectoFinal2\ProyectoFinal2\ProyectoFinal2\obj\Debug\ProyectoFinal2.exe.config
